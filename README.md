@@ -1,10 +1,10 @@
 # Estrutura de Dados 2019.1
 
 # Aluna:
-*Letícia França Farias
+* Letícia França Farias
 
 # Matrícula:
-*415097
+* 415097
 
 # Curso:
-*Sistemas de Informação
+* Sistemas de Informação
