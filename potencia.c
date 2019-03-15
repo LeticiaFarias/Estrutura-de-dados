@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <locale.h>
 
 int potencia(int n, int k){
@@ -15,10 +16,10 @@ int main () {
 	setlocale(LC_ALL, "Portuguese");
 	
 	int n, k;
-	printf("Digite a base e o expoente da potência: ");
+	printf("Digite a base e o expoente da potÃªncia: ");
 	scanf ("%d %d", &n, &k);
 	
-	printf ("O resultado é: %d", potencia (n, k));
+	printf ("O resultado Ã©: %d", potencia (n, k));
 	
 	return 0;
 }
